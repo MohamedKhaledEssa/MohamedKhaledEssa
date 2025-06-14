@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there, I'm Mohamed Khaled!
 
-<!--
-**MohamedKhaledEssa/MohamedKhaledEssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+I'm just getting started with GitHub and learning how to code. This space is where I’ll share my journey, projects, and progress as I grow. Everyone starts somewhere — this is my "Day 1".
+
+---
+
+## 🔧 Skills I Learned
+- HTML & CSS
+- JavaScript
+- Python
+- Git & GitHub basics
+
+---
+
+## 🤝 Let's Connect
+If you're also learning, feel free to reach out or follow me — we can grow together!
+
+---
+
+> “You don’t have to be great to start, but you have to start to be great.” – Zig Ziglar
